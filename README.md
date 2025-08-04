@@ -1,4 +1,4 @@
-## Sticky Notes App 📝
+# Sticky Notes App 📝
 A simple and interactive sticky notes application built using HTML, CSS, and JavaScript.
 # -> Create unlimited notes with one click
 # -> Edit note content directly in place
